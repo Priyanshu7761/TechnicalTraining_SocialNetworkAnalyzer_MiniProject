@@ -1,0 +1,1 @@
+# TechnicalTraining_SocialNetworkAnalyzer_MiniProject
